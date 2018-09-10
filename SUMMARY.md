@@ -26,4 +26,5 @@
   * [2.9 Chapter Summary](untitled/2.9-chapter-summary.md)
   * [2.10\* Introduction to Logic - Part I](untitled/2.10-introduction-to-logic.md)
   * [2.11\* Introduction to Logic - Part II](untitled/2.11-introduction-to-logic-part-ii.md)
+* [3\*. Understanding Logic in Computer Science](3.-understanding-logic-in-computer-science.md)
 
