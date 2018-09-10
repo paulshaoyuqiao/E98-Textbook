@@ -6,18 +6,19 @@ The book will focus on improving students' understanding of the following specif
 
 1. Core Data Types and Arithmetic Operations
 2. String Attributes and Operations
-3. Control Flow and Logical Operators
-4. While Loop and Iteration
+3. Flow Control and Logic Operations
+4. Iteration
 5. Defining Methods
-6. Helper Functions
+6. Creating and Defining Methods / Functions
 7. Introduction to Recursion
-8. Basic Data Structures
+8. Fundamentals of Data Structures
 9. Method Tracing and the Ruby Interpreter
-10. Introduction to Object-oriented Programming
-11. Built-in Classes and Objects
-12. Introduction to Sorting Algorithms
-13. \(_Optional_\) More on String Operations: **Regex**
-14. \(_Optional_\) More on Data Structures: **Linked Lists and Trees**
+10. Interpreting and Improving Program Efficiency
+11. Introduction to Object-oriented Programming
+12. Built-in Classes and Objects
+13. Introduction to Sorting Algorithms
+14. More on String Operations: Regex
+15. More on Ruby: an Introduction to Web Development
 
   
 
