@@ -15,7 +15,7 @@
   * [1.11 Problem Set - A](1.-getting-to-know-the-basics/1.11-problem-set-a.md)
   * [1.12 Problem Set - B](1.-getting-to-know-the-basics/1.12-problem-set-b.md)
 * [2. Making Your Codes Smarter](untitled/README.md)
-  * [2.1 Logical Operations](untitled/2.1-logical-operations.md)
+  * [2.1 Logic Operations](untitled/2.1-logical-operations.md)
   * [2.2 Flow Control](untitled/2.2-flow-control.md)
   * [2.3 Conditional Loop](untitled/2.3-conditional-loop.md)
   * [2.4 Anonymous Functions](untitled/2.4-anonymous-functions.md)
