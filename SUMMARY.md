@@ -24,7 +24,7 @@
   * [2.7 Iteration](untitled/2.7-iteration.md)
   * [2.8 Blocks](untitled/2.8-blocks.md)
   * [2.9 Chapter Summary](untitled/2.9-chapter-summary.md)
-  * [2.10\* Introduction to Logic - Part I](untitled/2.10-introduction-to-logic.md)
-  * [2.11\* Introduction to Logic - Part II](untitled/2.11-introduction-to-logic-part-ii.md)
-* [3\*. Understanding Logic in Computer Science](3.-understanding-logic-in-computer-science.md)
+* [3\*. Understanding Logic in Computer Science](3.-understanding-logic-in-computer-science/README.md)
+  * [3.1\* A Second Take on Logic Operations](3.-understanding-logic-in-computer-science/3.1-a-second-take-on-logic-operations.md)
+  * [3.2\* Logical Equivalence](3.-understanding-logic-in-computer-science/3.2-logical-equivalence.md)
 
