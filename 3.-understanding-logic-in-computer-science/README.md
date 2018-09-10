@@ -6,7 +6,7 @@ In this chapter, we will take a different perspective on how logic work inherent
 
 1. A Mathematical Perspective on Logical Operations
 2. Equivalent Logical Operations and Truth Table
-3. Binary Operators in Computer Circuits 
+3. Logical Operators and Digital Circuits 
 4. The Hexadecimal and Binary Systems
 5. Computer Architecture and Software Engineering
 

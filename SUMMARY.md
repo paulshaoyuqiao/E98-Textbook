@@ -27,4 +27,5 @@
 * [3\*. Understanding Logic in Computer Science](3.-understanding-logic-in-computer-science/README.md)
   * [3.1\* A Second Take on Logic Operations](3.-understanding-logic-in-computer-science/3.1-a-second-take-on-logic-operations.md)
   * [3.2\* Logical Equivalence](3.-understanding-logic-in-computer-science/3.2-logical-equivalence.md)
+  * [3.3\* Logic Operations in Practice: Digital Circuits](3.-understanding-logic-in-computer-science/3.3-logic-operations-in-practice-digital-circuits.md)
 
