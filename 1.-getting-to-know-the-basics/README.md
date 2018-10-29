@@ -1,6 +1,6 @@
 # 1. Getting to Know the Basics
 
-#### Before you start reading the next page... {#before-you-start-reading-the-next-page}
+#### Before you start reading the next page... <a id="before-you-start-reading-the-next-page"></a>
 
 Make sure you have installed **Ruby** \(a version higher than 1.9.0\) and a **Text Editor** on your laptop/PC.
 
@@ -61,7 +61,7 @@ Make sure you have installed **Ruby** \(a version higher than 1.9.0\) and a **Te
 
    [https://www.sublimetext.com/3](https://www.sublimetext.com/3)
 
-#### Now that you have installed both _Ruby_ and a _Text Editor_ on your system, we can finally begin our adventure in the world of programming. {#now-that-you-have-installed-both-ruby-and-a-text-editor-on-your-system-we-can-finally-begin-our-adventure-in-the-world-of-programming}
+#### Now that you have installed both _Ruby_ and a _Text Editor_ on your system, we can finally begin our adventure in the world of programming. <a id="now-that-you-have-installed-both-ruby-and-a-text-editor-on-your-system-we-can-finally-begin-our-adventure-in-the-world-of-programming"></a>
 
-### **Welcome, and Go Bears!** {#welcome-and-go-bears}
+### **Welcome, and Go Bears!** <a id="welcome-and-go-bears"></a>
 

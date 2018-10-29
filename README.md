@@ -11,14 +11,10 @@ The book will focus on improving students' understanding of the following specif
 5. Defining Methods
 6. Creating and Defining Methods / Functions
 7. Introduction to Recursion
-8. Fundamentals of Data Structures
-9. Method Tracing and the Ruby Interpreter
-10. Interpreting and Improving Program Efficiency
-11. Introduction to Object-oriented Programming
-12. Built-in Classes and Objects
-13. Introduction to Sorting Algorithms
-14. More on String Operations: Regex
-15. More on Ruby: an Introduction to Web Development
+8. Method Tracing and the Ruby Interpreter
+9. Blocks and Lambdas
+10. Variable Scope
+11. A Take on Computer Logics 
 
   
 
